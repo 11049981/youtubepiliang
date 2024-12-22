@@ -1,0 +1,17 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+
+# 视频文件
+*.mp4
+*.m4a
+
+# 临时文件
+batch_*.mp4
+final_batch_*.mp4
+
+# 环境
+venv/
+env/
+.env 
